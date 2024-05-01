@@ -1,0 +1,8 @@
+out/
+.vs/
+cnpy/
+vcpkg_installed/
+CMakeSettings.json
+vcpkg-configuration.json
+vcpkg.json
+plotting.*
