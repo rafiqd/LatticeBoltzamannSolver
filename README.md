@@ -11,8 +11,5 @@ The top and bottom boundry conditions are set as solid objects with 0 velocity a
 by also having 0 velocity.
 
 Von Karman vortices start to form near the end of the simulation
-
-![demo scene](https://github.com/rafiqd/LatticeBoltzmannSolver/blob/main/results/output.gif)
-
 https://github.com/rafiqd/LatticeBoltzmannSolver/assets/3102703/9a964145-dd6b-4ea9-bbdb-306dcf24cae0
 
