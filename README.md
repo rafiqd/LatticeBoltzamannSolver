@@ -14,4 +14,5 @@ Von Karman vortices start to form near the end of the simulation
 
 ![demo scene](https://github.com/rafiqd/LatticeBoltzmannSolver/blob/main/results/output.gif)
 
+https://github.com/rafiqd/LatticeBoltzmannSolver/assets/3102703/9a964145-dd6b-4ea9-bbdb-306dcf24cae0
 
