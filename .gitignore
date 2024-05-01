@@ -1,5 +1,6 @@
 out/
 .vs/
+.vscode/
 cnpy/
 vcpkg_installed/
 CMakeSettings.json
